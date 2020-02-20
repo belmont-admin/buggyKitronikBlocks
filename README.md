@@ -1,5 +1,5 @@
 ```package
-kitronik_servo_lite:github:kitronikltd/pxt-kitronik-servo-lite#v1.0.5
+pxt-kitronik-servo-lite=github:kitronikltd/pxt-kitronik-servo-lite#v1.0.5
 ```
 
 # Use Kitronik blocks
