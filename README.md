@@ -6,7 +6,7 @@ pxt-kitronik-servo-lite=github:kitronikltd/pxt-kitronik-servo-lite#v1.0.5
 
 ## Introduction @unplugged
 
-Use the Kitronik blocks to save time
+Use the Kitronik ``||kitronik_servo_lite:Servo:Lite||`` blocks to save time
 
 ```blocks
 input.onButtonPressed(Button.A, function () {
