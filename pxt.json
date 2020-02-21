@@ -5,8 +5,7 @@
     "dependencies": {
         "core": "*",
         "radio": "*",
-        "pxt-kitronik-servo-lite": "github:kitronikltd/pxt-kitronik-servo-lite#v1.0.5",
-        "neopixel": "github:microsoft/pxt-neopixel#v0.6.12"
+        "pxt-kitronik-servo-lite": "github:kitronikltd/pxt-kitronik-servo-lite#v1.0.5"
     },
     "files": [
         "README.md",
